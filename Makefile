@@ -67,4 +67,7 @@ run: os.iso
 clean:
 		rm -rf $(INTERNAL_OBJECTS) $(INTERNAL_OBJECTS:.o=.d) kernel.elf os.iso com1.out
 
+clean_obj:
+		rm -rf $(INTERNAL_OBJECTS) $(INTERNAL_OBJECTS:.o=.d)
+
 re: clean run
