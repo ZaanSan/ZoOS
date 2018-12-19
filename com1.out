@@ -1,0 +1,7 @@
+[INFO]: Logging system is ready.
+[INFO]: Tty driver is set up.
+[INFO]: Global descriptor table loaded.
+[INFO]: Interrupt descriptor table loaded.
+[INFO]: Programmable interrupt controller loaded.
+[INFO]: Keyboard interrupt registered.
+[INFO]: Hardware interrupts enabled.
