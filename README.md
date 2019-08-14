@@ -1,6 +1,6 @@
 # ZoOS
 ![C](https://img.shields.io/badge/C-blue.svg)
-![ASM](https://img.shields.io/badge/ASM-blue.svg)
+![x86-ASM](https://img.shields.io/badge/x86-Assembly-blue.svg)
 [![License](https://img.shields.io/badge/license-LGPL-blue.svg)](https://opensource.org/licenses/MIT)
 
 ZoOS is a little x86 linux operating system written in assembly and C. 
