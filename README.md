@@ -1,7 +1,7 @@
 # ZoOS
 ![C](https://img.shields.io/badge/C-blue.svg)
 ![x86-ASM](https://img.shields.io/badge/x86-Assembly-blue.svg)
-[![License](https://img.shields.io/badge/license-LGPL-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ZoOS is a little x86 linux operating system written in assembly and C. 
 
@@ -24,7 +24,7 @@ ZoOS is a little x86 linux operating system written in assembly and C.
 
 ### Prerequisites
 
-If you want to compile yourself the kernel using the makefile provided you will need to build your own GCC Cross-compiler using this tutorial : https://wiki.osdev.org/GCC_Cross-Compiler
+If you want to compile yourself the kernel using the makefile provided you will need to build your own GCC Cross-compiler using this tutorial : https://wiki.osdev.org/GCC_Cross-Compiler . Otherwise, the iso file of the os is already provided.
 
 ### How to use it
 
@@ -39,4 +39,4 @@ to use Bochs because the project contains configuration for Bochs that enable th
 
 ## License
 
-This project is licensed under the GNU Lesser General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
