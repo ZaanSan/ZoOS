@@ -29,7 +29,7 @@ If you want to compile yourself the kernel using the makefile provided you will 
 ### How to use it
 
 The iso file is already provided : os.iso. You only need to create a virtual machine using this iso file. I advise 
-to use Bochs because the project contains configuration for Bochs that enable the logging system of the OS.
+to use Bochs because the project contains configuration for Bochs that enable the logging system of the OS. You will only need to use this command : <b>bochs -f bochsrc.txt -q</b> at the root of the project to launch it.
 
 ## Resources
 
