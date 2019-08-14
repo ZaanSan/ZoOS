@@ -9,15 +9,15 @@ ZoOS is a little x86 linux operating system written in assembly and C.
 
 -	Drivers:  
   o	Console/tty: write on console, change color, scroll
-  o	Serial port: logging system from OS in virtual machine to my own environment
-  o	Keyboard: Read input character form keyboard
+  <br/>o	Serial port: logging system from OS in virtual machine to my own environment
+  <br/>o	Keyboard: Read input character form keyboard
 -	Kernel:
-  o	Calling Global Constructor (__attribute__ ((constructor)))
-  o	Segmentation: Setup of Global Descriptor Table (GDT)
-  o	Interrupt: Setup of Interrupt Descriptor Table (IDT) and Programmable Interrupt Controller (PIC) to handle some interrupt (only input for the moment)
+  <br/>o	Calling Global Constructor (__attribute__ ((constructor)))
+  <br/>o	Segmentation: Setup of Global Descriptor Table (GDT)
+  <br/>o	Interrupt: Setup of Interrupt Descriptor Table (IDT) and Programmable Interrupt Controller (PIC) to handle some interrupt (only input for the moment)
 -	Libk:
-  o	Small library for kernel
-  o	Printf, strlen, memset, memcpy
+  <br/>o	Small library for kernel
+  <br/>o	Printf, strlen, memset, memcpy
 
 
 ## Getting Started
